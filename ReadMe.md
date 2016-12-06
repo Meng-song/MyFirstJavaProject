@@ -7,6 +7,7 @@
 
 </p>
 <h2>Overview</h2>
+Firstly, I practice the programming of one book named 《Thinking in Java》.
 <p><strong>So</strong>,the name is "Hello World!", and let's begin the study of java by it.  
 Edit By Meng-song</a></p>
 </body></html>
